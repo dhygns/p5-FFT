@@ -1,2 +1,16 @@
 # p5-FFT
-this is all of p5-projects 
+
+Simple project used P5js via "sound fft"
+
+## install
+
+in cmd
+```npm install```
+
+
+## run
+
+```>> server node```
+you have to excute chrome.exe and connect "localhost:3000"
+
+
